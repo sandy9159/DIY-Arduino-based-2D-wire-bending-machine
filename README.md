@@ -17,6 +17,12 @@ More complex shape can also possible, for that we need to write code and upload 
 
 This DIY Arduino based 2D wire bending machine is fun to build on your own, if you are students this will be good project for your academic project.
 
+# VIDEO
+
+Watch the video of DIY Arduino based 2D wire bending machine for complete information about how to build this machine or you can also continue to read the post.
+
+https://youtu.be/HpuprEfqoEk
+
 # COMPONENT REQUIRED
 
 Followings are the major components require to build DIY Arduino based 2D wire bending machine
@@ -183,7 +189,19 @@ Here machine assembly is almost done so now we can move towards arduino code.
 
 
  
+# HOW TO OPERATE WIRE BENDING MACHINE
 
+![image](https://user-images.githubusercontent.com/19898602/123726352-6fb4e500-d8ad-11eb-8553-a85f5e952be1.png)
+
+
+Connect the power supply to the system, connect arduino and PC with USB cable.
+Open the Arduino IDE software launch the serial monitor immediately you will receive a massage to input the data.
+suppose you want to make a triangle of 20mm lenght so you need to enter
+1,20
+The first number before comma is for shape selection and the number after comma are side length.
+
+That’s all for now friends.
+If you like this project or have any question regarding, please ask it in the comment section below.
 
 
 
