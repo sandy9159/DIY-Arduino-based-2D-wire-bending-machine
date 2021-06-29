@@ -138,7 +138,51 @@ first registration to their site its limited period offer so what are waiting fo
 
 
 
+# 3D FILES
 
+![image](https://user-images.githubusercontent.com/19898602/123726078-f0bfac80-d8ac-11eb-87d5-7dd0cbf31be8.png)
+
+
+I have uploaded all the required [3D parts](https://www.thingiverse.com/thing:3789571) at thingiverse
+you can download it and print it, I have printed all parts in PLA and 0.15 layer height and 80% infill on tevo [terantula 3d printer](https://amzn.to/2KhMkPb)
+
+# WIRE BENDING MACHINE ASSEMBLY
+
+![image](https://user-images.githubusercontent.com/19898602/123726153-177de300-d8ad-11eb-82e6-64e0b92af6e9.png)
+
+
+First of all I printed all the required 3D parts in PLA material.
+
+![image](https://user-images.githubusercontent.com/19898602/123726171-1fd61e00-d8ad-11eb-8962-965bc0da7665.png)
+
+
+I mount the parts on 8MM mdf board using M4 bolts and nuts.
+
+![image](https://user-images.githubusercontent.com/19898602/123726192-26fd2c00-d8ad-11eb-93d9-cb7b07a1833f.png)
+
+
+After that I assemble the wire straightener system, I have used 3mm bore diameter bearing 693ZZ
+
+![image](https://user-images.githubusercontent.com/19898602/123726203-2c5a7680-d8ad-11eb-9464-fd63bda3ef44.png)
+
+
+Next I mount both stepper motor, I have used 3D printer filament feeder to feed brass wire in machine.
+
+![image](https://user-images.githubusercontent.com/19898602/123726216-34b2b180-d8ad-11eb-8f54-45991ef7c068.png)  ![image](https://user-images.githubusercontent.com/19898602/123726225-3aa89280-d8ad-11eb-9080-175e3e4c391d.png)
+
+
+Now I mount the bending arm on the shaft of stepper motor, and next I mount the wire guider on the feeder stepper motor mount.
+
+![image](https://user-images.githubusercontent.com/19898602/123726248-45632780-d8ad-11eb-8d59-fe5148b92f71.png)  ![image](https://user-images.githubusercontent.com/19898602/123726256-48f6ae80-d8ad-11eb-90d7-ccef89903c41.png)  ![image](https://user-images.githubusercontent.com/19898602/123726260-4bf19f00-d8ad-11eb-937d-f74c4c2e64d1.png)
+
+
+At last I mount a roller bearing to hold the roll of wire, then PCB is mounted on MDF Board and stepper motion is connected to there terminal.
+Here machine assembly is almost done so now we can move towards arduino code.
+
+
+
+
+ 
 
 
 
